@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "RESETT",
+  "base_artist": "RewindFlash、VOLTA、ariiol",
+  "createdAt": "2026-03-26T20:08:58.949515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RESETT (feat. yeil)",
+      "artist": "RewindFlash",
+      "has_synced": false,
+      "path": "select/01_RESETT_(feat._yeil)_RewindFlash.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RESETT",
+      "artist": "RewindFlash",
+      "has_synced": false,
+      "path": "select/02_RESETT_RewindFlash.txt"
+    }
+  ]
+}
